@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.mypy_cache/
+
+# C extensions
+*.so
+
+# dotenv
+.env
+.idea
+
+# virtualenv
+.venv/
+venv/
+ENV/
